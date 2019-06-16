@@ -36,6 +36,7 @@
 
 #### 隨機生成道具
 ![](https://i.imgur.com/e22JNDV.png) **天使的眼淚：** 可以補血
+
 ![](https://i.imgur.com/v7tj8pr.png) **潘朵拉盒子：** 五秒內可以無限火力
 
 
