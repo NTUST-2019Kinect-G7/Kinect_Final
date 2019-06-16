@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: fd966f5ef77f417428a36152183a24c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pokemon House tile_0
+    21300002: Pokemon House tile_1
+    21300004: Pokemon House tile_2
+    21300006: Pokemon House tile_3
+    21300008: Pokemon House tile_4
+    21300010: Pokemon House tile_5
+    21300012: Pokemon House tile_6
+    21300014: Pokemon House tile_7
+    21300016: Pokemon House tile_8
+    21300018: Pokemon House tile_9
+    21300020: Pokemon House tile_10
+    21300022: Pokemon House tile_11
+    21300024: Pokemon House tile_12
+    21300026: Pokemon House tile_13
+    21300028: Pokemon House tile_14
+    21300030: Pokemon House tile_15
+    21300032: Pokemon House tile_16
+    21300034: Pokemon House tile_17
+    21300036: Pokemon House tile_18
+    21300038: Pokemon House tile_19
+    21300040: Pokemon House tile_20
+    21300042: Pokemon House tile_21
+    21300044: Pokemon House tile_22
+    21300046: Pokemon House tile_23
+    21300048: Pokemon House tile_24
+    21300050: Pokemon House tile_25
+    21300052: Pokemon House tile_26
+    21300054: Pokemon House tile_27
+    21300056: Pokemon House tile_28
+    21300058: Pokemon House tile_29
+    21300060: Pokemon House tile_30
+    21300062: Pokemon House tile_31
+    21300064: Pokemon House tile_32
+    21300066: Pokemon House tile_33
+    21300068: Pokemon House tile_34
+    21300070: Pokemon House tile_35
+    21300072: Pokemon House tile_36
+    21300074: Pokemon House tile_37
+    21300076: Pokemon House tile_38
+    21300078: Pokemon House tile_39
+    21300080: Pokemon House tile_40
+    21300082: Pokemon House tile_41
+    21300084: Pokemon House tile_42
+    21300086: Pokemon House tile_43
+    21300088: Pokemon House tile_44
+    21300090: Pokemon House tile_45
+    21300092: Pokemon House tile_46
+    21300094: Pokemon House tile_47
+    21300096: Pokemon House tile_48
+    21300098: Pokemon House tile_49
+    21300100: Pokemon House tile_50
+    21300102: Pokemon House tile_51
+    21300104: Pokemon House tile_52
+    21300106: Pokemon House tile_53
+    21300108: Pokemon House tile_54
+    21300110: Pokemon House tile_55
+    21300112: Pokemon House tile_56
+    21300114: Pokemon House tile_57
+    21300116: Pokemon House tile_58
+    21300118: Pokemon House tile_59
+    21300120: Pokemon House tile_60
+    21300122: Pokemon House tile_61
+    21300124: Pokemon House tile_62
+    21300126: Pokemon House tile_63
+    21300128: Pokemon House tile_64
+    21300130: Pokemon House tile_65
+    21300132: Pokemon House tile_66
+    21300134: Pokemon House tile_67
+    21300136: Pokemon House tile_68
+    21300138: Pokemon House tile_69
+    21300140: Pokemon House tile_70
+    21300142: Pokemon House tile_71
+    21300144: Pokemon House tile_72
+    21300146: Pokemon House tile_73
+    21300148: Pokemon House tile_74
+    21300150: Pokemon House tile_75
+    21300152: Pokemon House tile_76
+    21300154: Pokemon House tile_77
+    21300156: Pokemon House tile_78
+    21300158: Pokemon House tile_79
+    21300160: Pokemon House tile_80
+    21300162: Pokemon House tile_81
+    21300164: Pokemon House tile_82
+    21300166: Pokemon House tile_83
+    21300168: Pokemon House tile_84
+    21300170: Pokemon House tile_85
+    21300172: Pokemon House tile_86
+    21300174: Pokemon House tile_87
+    21300176: Pokemon House tile_88
+    21300178: Pokemon House tile_89
+    21300180: Pokemon House tile_90
+    21300182: Pokemon House tile_91
+    21300184: Pokemon House tile_92
+    21300186: Pokemon House tile_93
+    21300188: Pokemon House tile_94
+    21300190: Pokemon House tile_95
+    21300192: Pokemon House tile_96
+    21300194: Pokemon House tile_97
+    21300196: Pokemon House tile_98
+    21300198: Pokemon House tile_99
+    21300200: Pokemon House tile_100
+    21300202: Pokemon House tile_101
+    21300204: Pokemon House tile_102
+    21300206: Pokemon House tile_103
+    21300208: Pokemon House tile_104
+    21300210: Pokemon House tile_105
+    21300212: Pokemon House tile_106
+    21300214: Pokemon House tile_107
+    21300216: Pokemon House tile_108
+    21300218: Pokemon House tile_109
+    21300220: Pokemon House tile_110
+    21300222: Pokemon House tile_111
+    21300224: Pokemon House tile_112
+    21300226: Pokemon House tile_113
+    21300228: Pokemon House tile_114
+    21300230: Pokemon House tile_115
+    21300232: Pokemon House tile_116
+    21300234: Pokemon House tile_117
+    21300236: Pokemon House tile_118
+    21300238: Pokemon House tile_119
+    21300240: Pokemon House tile_120
+    21300242: Pokemon House tile_121
+    21300244: Pokemon House tile_122
+    21300246: Pokemon House tile_123
+    21300248: Pokemon House tile_124
+    21300250: Pokemon House tile_125
+    21300252: Pokemon House tile_126
+    21300254: Pokemon House tile_127
+    21300256: Pokemon House tile_128
+    21300258: Pokemon House tile_129
+    21300260: Pokemon House tile_130
+    21300262: Pokemon House tile_131
+    21300264: Pokemon House tile_132
+    21300266: Pokemon House tile_133
+    21300268: Pokemon House tile_134
+    21300270: Pokemon House tile_135
+    21300272: Pokemon House tile_136
+    21300274: Pokemon House tile_137
+    21300276: Pokemon House tile_138
+    21300278: Pokemon House tile_139
+    21300280: Pokemon House tile_140
+    21300282: Pokemon House tile_141
+    21300284: Pokemon House tile_142
+    21300286: Pokemon House tile_143
+    21300288: Pokemon House tile_144
+    21300290: Pokemon House tile_145
+    21300292: Pokemon House tile_146
+    21300294: Pokemon House tile_147
+    21300296: Pokemon House tile_148
+    21300298: Pokemon House tile_149
+    21300300: Pokemon House tile_150
+    21300302: Pokemon House tile_151
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokemon House tile_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 653
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55434aa225a1d44889c858c7709fcfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 653
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f7db8f8ec7c842a4f53819ef37eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 653
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51111d20f644e0428576ee68dd8390c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 653
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df675e134f6634f9eabb0f4645e207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 653
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a6c77635afc746b25c0885a2dcaaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 653
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767e4002f8f02640998f6e7d0bcf4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 451
+        width: 134
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b23b613a51dd446ad3d6431b0dcb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 451
+        width: 134
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20bc711970e5324cae2b9357c715975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 451
+        width: 173
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d4548881ccd44782e5392e6bb4fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 451
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ead519faa758149a80e57e611e93e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 179
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7155b3b3ce833945838a9d6328f6e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 250
+        width: 212
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff818a20353128e46963bbe28bd7b20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 250
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2ef676a17eea946a8b5f219d30adca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 250
+        width: 151
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf735e6781984bb4c9038b9280ecc4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 151
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b665aced2e1a1f4eb1e135a945b191b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 179
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f41b2c01b083542920a7c1a9538aed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 70
+        width: 176
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ddd6812339b744e82af759b60f3c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a634c59a2e89ad4fb7d6699c42e5a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon House tile_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 134
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b136952b061c46a84debb7aa6b60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e27c95da0c819ac4aadffe795d584816
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
